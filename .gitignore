@@ -1,0 +1,9 @@
+*.docx
+1_Design-Data/0_Hardware/0_pre-schematic-reports/*.xlsx
+1_Design-Data/1_Firmware/X_Others
+1_Design-Data/1_Firmware/0_Source-Code
+1_Design-Data/1_Firmware/0_Source-Code/.pio
+1_Design-Data/1_Firmware/0_Source-Code/.vscode/.browse.c_cpp.db*
+1_Design-Data/1_Firmware/0_Source-Code/.vscode/c_cpp_properties.json
+1_Design-Data/1_Firmware/0_Source-Code/.vscode/launch.json
+1_Design-Data/1_Firmware/0_Source-Code/.vscode/ipch

@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[PCB_DataAcq.GTO]
+   Generated File[PCB_DataAcq.GTP]
+   Generated File[PCB_DataAcq.GTS]
+   Generated File[PCB_DataAcq.GTL]
+   Generated File[PCB_DataAcq.G1]
+   Generated File[PCB_DataAcq.G2]
+   Generated File[PCB_DataAcq.GBL]
+   Generated File[PCB_DataAcq.GBS]
+   Generated File[PCB_DataAcq.GBP]
+   Generated File[PCB_DataAcq.GBO]
+   Generated File[PCB_DataAcq.GM]
+   Generated File[PCB_DataAcq.EXTREP]
+   Generated File[PCB_DataAcq.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 22:06:24 On 11/10/2025

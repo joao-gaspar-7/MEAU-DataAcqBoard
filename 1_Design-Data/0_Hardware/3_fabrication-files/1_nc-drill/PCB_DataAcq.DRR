@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_DataAcq.PcbDoc   11/10/2025  22:08:37
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB_DataAcq-RoundHoles-Plated.TXT
+ASCII Non-Plated SlotHoles File : PCB_DataAcq-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             1093      PTH        98.78inch (2508.99mm)
+T2      14mil (0.35mm)                                            Round             146       PTH        27.62inch (701.59mm)
+T3      41mil (1.05mm)                                            Round             9         PTH        0.89inch (22.55mm)
+T4      43mil (1.1mm)                                             Round             34        PTH        10.81inch (274.66mm)
+T5      122mil (3.1mm)                                            Round             2         PTH        0.98inch (24.99mm)
+T6      130mil (3.3mm)                                            Round             4         PTH        10.46inch (265.76mm)
+T7      28mil (0.71mm)                                            Slot              2         NPTH       0.62inch (15.73mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1290
+
+Total Processing Time (hh:mm:ss) : 00:00:00

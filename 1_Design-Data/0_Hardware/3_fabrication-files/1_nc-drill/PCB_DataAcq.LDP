@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\joaor\Documents\0_Pessoal\0_Portfolio\2_ModuloAcquisicaoDados\0_GitProject\1_Design-Data\0_Hardware\2_pcb\PCB_DataAcq.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcb_dataacq-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=pcb_dataacq-slotholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
