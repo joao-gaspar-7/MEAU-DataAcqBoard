@@ -36,12 +36,13 @@ The goal of this repository is to provide an overview of a typical workflow for:
 ## ⚙️ Hardware Development Workflow
 
 1. **Requirements Definition**
+   - Define top level requirements (e.g. number of inputs/outputs and or necessary communication protocols)
    - Specify MCU variant (e.g., ESP32-WROOM-32, ESP32-S3, STM32F4, etc).
-   - Define I/O mapping and required peripherals (CAN, SPI, Wi-Fi, BLE, sensors, etc.).
+   - Define I/O mapping and required peripherals (CAN, SPI, Wi-Fi, sensors, etc.).
 
 2. **Schematic Design**
    - Tools: Altium Designer.
-   - Use reference hardware design guidelines from Espressif/ST/other IC manufacturers.
+   - Use reference hardware design guidelines from Espressif/ST/others.
    - Include power regulation, input and output stages and any required physical communication layer (CAN, SPI, I2C).
 
 3. **PCB Layout**
@@ -71,7 +72,7 @@ The goal of this repository is to provide an overview of a typical workflow for:
 ## 📚 Documentation
 
 - [Requirements Report](0_Requirements/0_Requirements-Report.pdf)
-- [MCU Mapping Report](docs/firmware_architecture.md)
+- [MCU Mapping Report](1_Design-Data/0_Hardware/0_pre-schematic-reports/0_MCU-Mapping-Report.pdf)
 - [Validation Report](2_Validation/0_Validation-Report.pdf)
 
 ---
